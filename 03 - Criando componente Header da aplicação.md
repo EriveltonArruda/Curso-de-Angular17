@@ -32,6 +32,6 @@ No app.component.html chame o header (igual a um componente em React).
 
 <app-header></app-header>
 
-### Dica de xtensão
+### Dica de extensão
 
 Para uma experiência melhor com o Angular, instale a extensão "Angular Language Service"
